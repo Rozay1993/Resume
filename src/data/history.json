@@ -1,0 +1,42 @@
+{
+  "education": [
+    {
+      "period": "2013 - 2017",
+      "school": "Birmingham City University",
+      "degree": "Bachelor of Science Computer Science (Computer Science)",
+      "description": "<p>&nbsp;<\/p>"
+    }
+  ],
+  "career": [
+    {      
+      "period": "2022 - Present",
+      "company": "",
+      "title": "Freelancer",
+      "description": ""
+    },
+    {      
+      "period": "2020 - 2022",
+      "company": "Evita homes",
+      "title": "Web and AI Developer, Team Manager",
+      "description": ""
+    },
+    {      
+      "period": "2017 - 2019",
+      "company": "Ikonick Visuals",
+      "title": "Web Developer && team player",
+      "description": ""
+    },
+    {      
+      "period": "2013 - 2017",
+      "company": "Freelancer",
+      "title": "Back-End Developer",
+      "description": "While studying at university, I worked occasionally at Freelancer.com."
+    },
+    {      
+      "period": "2011 - 2013",
+      "company": "",
+      "title": "Front-End Develoepr",
+      "description": "I started developer life as a front end developer"
+    }
+  ]
+}

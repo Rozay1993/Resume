@@ -1,0 +1,64 @@
+{
+  "username": "Usman Raza",
+  "avatar": "../assets/images/avatar-primary-bg.svg",
+  "objective": "<p>I am a Full Stack developer with more than 5 years of experience in developing, testing, and implementing webservices, web-based applications using MERN stack, RestFull API using Laravel. <\/p> <p> I am ambitious and hardworking, innovative and creative, very flexible and adaptable. I am also a quick learner and master new technologies with ease; reliable team player as well as an independent individual. <\/p>",
+  "resumeUrl": "#",
+  "skills": [
+    {
+      "name": "React.js",
+      "confidence": 95,
+      "color": "rgb(0 216 255)"
+    },
+    {
+      "name": "Node.js",
+      "confidence": 85,
+      "color": "rgb(83 158 67)"
+    },
+    {
+      "name": "Laravel.js",
+      "confidence": 90,
+      "color": "rgb(255 76 96)"
+    },
+    {
+      "name": "Three.js",
+      "confidence": 80,
+      "color": "rgb(51, 105, 30)"
+    },
+    {
+      "name": "TypeScript",
+      "confidence": 90,
+      "color": "rgb(244 227 26)"
+    },
+    {
+      "name": "OpenAI(GPT-3)",
+      "confidence": 80,
+      "color": "rgb(183, 50, 230)"
+    }
+  ],
+  "statistics": [
+    {
+      "number": 13,
+      "title": "Open-source projects",
+      "iconPrefix": "fab",
+      "iconName": "osi"
+    },
+    {
+      "number": 30,
+      "title": "Projects completed",
+      "iconPrefix": "fas",
+      "iconName": "tasks"
+    },
+    {
+      "number": 302,
+      "title": "Cup of coffee",
+      "iconPrefix": "fas",
+      "iconName": "coffee"
+    },
+    {
+      "number": 0,
+      "title": "Publications",
+      "iconPrefix": "far",
+      "iconName": "newspaper"
+    }
+  ]
+}

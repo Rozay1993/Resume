@@ -1,0 +1,22 @@
+{
+  "firstName": "Usman",
+  "middleName": ".",
+  "lastName": "Raza",
+  "avatar": "\/images\/avatar.svg",
+  "titles": [
+    "Full Stack developer",
+    "AI developer",
+    "Game developer",
+    "Bot developer"
+  ],
+  "socialNetworks": [
+    {
+      "link": "https://github.com/kien-dang/react-resume-template",
+      "iconName": "faGithub"
+    },
+    {
+      "link": "https://www.linkedin.com/in/trung-kien-dang",
+      "iconName": "faLinkedin"
+    }
+  ]
+}

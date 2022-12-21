@@ -1,0 +1,48 @@
+{
+    "tools": [
+        {
+            "name": "HTML5",
+            "image": "\/images\/html5-bw.svg"
+        },
+        {
+            "name": "CSS3",
+            "image": "\/images\/css3-bw.svg"
+        },
+        {
+            "name": "jQuery",
+            "image": "\/images\/jquery-bw.svg"
+        },
+        {
+            "name": "Typescript",
+            "image": "\/images\/typescript-bw.svg"
+        },
+        {
+            "name": "React.js",
+            "image": "\/images\/reactjs_icon.svg"
+        },
+        {
+            "name": "Node.js",
+            "image": "\/images\/node_icon.svg"
+        },
+        {
+            "name": "Next.js",
+            "image": "\/images\/nextjs_icon.svg"
+        },
+        {
+            "name": "AI",
+            "image": "\/images\/ai_icon.svg"
+        },
+        {
+            "name": "Game",
+            "image": "\/images\/game_icon.svg"
+        },
+        {
+            "name": "3D",
+            "image": "\/images\/3D_icon.svg"
+        },
+        {
+            "name": "sql server",
+            "image": "\/images\/sqlserver-bw.svg"
+        }
+    ]
+}
