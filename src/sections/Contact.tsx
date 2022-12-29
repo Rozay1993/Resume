@@ -4,9 +4,9 @@ import { Row, Col, Button, Form } from "react-bootstrap";
 import emailjs from "@emailjs/browser";
 import contact from "../data/contact.json";
 
-import discrdIcon from "../assets/images/discord_icon.svg";
-import skypeIcon from "../assets/images/skype_icon.svg";
-import whatsappIcon from "../assets/images/whatsapp_icon.svg";
+// import discrdIcon from "../assets/images/discord_icon.svg";
+// import skypeIcon from "../assets/images/skype_icon.svg";
+// import whatsappIcon from "../assets/images/whatsapp_icon.svg";
 
 export function Contact() {
   const form = useRef() as React.MutableRefObject<HTMLFormElement>;
@@ -39,9 +39,9 @@ export function Contact() {
           <div className="contact-info">
             <h3>{contact.title}</h3>
             <div dangerouslySetInnerHTML={{ __html: contact.subTitle }} />
-            <div className="contact-icon mb-4 d-flex align-items-center"><img src={discrdIcon} alt="discord"/>{contact.discord}</div>
+            {/* <div className="contact-icon mb-4 d-flex align-items-center"><img src={discrdIcon} alt="discord"/>{contact.discord}</div>
             <div className="contact-icon mb-4 d-flex align-items-center"><img src={skypeIcon} alt="skype"/>{contact.skype}</div>
-            <div className="contact-icon mb-4 d-flex align-items-center"><img src={whatsappIcon} alt="phone"/>{contact.phone}</div>
+            <div className="contact-icon mb-4 d-flex align-items-center"><img src={whatsappIcon} alt="phone"/>{contact.phone}</div> */}
           </div>
         </Col>
         <Col md={8}>

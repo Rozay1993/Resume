@@ -2,7 +2,7 @@
 /*                      CLIENTS                              
 /*=================================================================*/
 .knowledge {
-  min-height: 50px;
+  min-height: 70px;
   position: relative;
   text-align: center;
   margin-top: 60px;
@@ -20,6 +20,10 @@
     img {
       max-width: 100%;
       max-height: 50px;
+      transition: all 0.3s ease-in-out;
+    }
+    img:hover{
+      max-height: 70px;
     }
   }
 

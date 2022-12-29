@@ -1,48 +1,36 @@
 {
     "tools": [
         {
-            "name": "HTML5",
-            "image": "\/images\/html5-bw.svg"
-        },
-        {
-            "name": "CSS3",
-            "image": "\/images\/css3-bw.svg"
-        },
-        {
-            "name": "jQuery",
-            "image": "\/images\/jquery-bw.svg"
-        },
-        {
-            "name": "Typescript",
-            "image": "\/images\/typescript-bw.svg"
+            "name": "TailwindCSS",
+            "image": "\/images\/tailwindcss.svg"
         },
         {
             "name": "React.js",
-            "image": "\/images\/reactjs_icon.svg"
+            "image": "\/images\/react.svg"
         },
         {
             "name": "Node.js",
-            "image": "\/images\/node_icon.svg"
+            "image": "\/images\/node-js.svg"
         },
         {
-            "name": "Next.js",
-            "image": "\/images\/nextjs_icon.svg"
+            "name": "Typescript",
+            "image": "\/images\/typescript.svg"
+        },
+        {
+            "name": "Laravel",
+            "image": "\/images\/laravel.svg"
         },
         {
             "name": "AI",
-            "image": "\/images\/ai_icon.svg"
+            "image": "\/images\/ai-1.svg"
         },
         {
-            "name": "Game",
-            "image": "\/images\/game_icon.svg"
+            "name": "Bot",
+            "image": "\/images\/bot.svg"
         },
         {
             "name": "3D",
-            "image": "\/images\/3D_icon.svg"
-        },
-        {
-            "name": "sql server",
-            "image": "\/images\/sqlserver-bw.svg"
+            "image": "\/images\/3D.svg"
         }
     ]
 }

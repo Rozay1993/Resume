@@ -4326,6 +4326,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"email-js@npm:^2.0.2":
+  version: 2.0.2
+  resolution: "email-js@npm:2.0.2"
+  checksum: 9703ea21dad84fbbabcd6541fe44925b66bbcf0ce335c08105e5d10d764ee8a538e7813feef4484dbaa477841e1aeca3790149bb3b4a98ea6aebb8a67c35f651
+  languageName: node
+  linkType: hard
+
 "emoji-regex@npm:^8.0.0":
   version: 8.0.0
   resolution: "emoji-regex@npm:8.0.0"
@@ -8091,6 +8098,7 @@ __metadata:
     copy-webpack-plugin: ^11.0.0
     cross-env: ^7.0.3
     css-loader: ^6.7.1
+    email-js: ^2.0.2
     eslint: ^8.22.0
     eslint-plugin-react: ^7.30.1
     eslint-plugin-react-hooks: ^4.6.0

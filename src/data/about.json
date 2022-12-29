@@ -1,7 +1,7 @@
 {
   "username": "Rojay",
   "avatar": "../assets/images/avatar-primary-bg.svg",
-  "objective": "<p>I am a Full Stack developer with more than 5 years of experience in developing, testing, and implementing webservices, web-based applications using MERN stack, RestFull API using Laravel. <\/p> <p> I am ambitious and hardworking, innovative and creative, very flexible and adaptable. I am also a quick learner and master new technologies with ease; reliable team player as well as an independent individual. <\/p>",
+  "objective": "<p>As a Full Stack developer, I have over 10 years of experience in building and testing webservices, web-based applications using MERN stack, RestFull API using Laravel. <\/p> <p> I am ambitious and hardworking, innovative and creative, very flexible and adaptable. I am also a quick learner and master new technologies with ease; reliable team player as well as an independent individual. <\/p>",
   "resumeUrl": "#",
   "skills": [
     {
@@ -15,24 +15,24 @@
       "color": "rgb(83 158 67)"
     },
     {
+      "name": "OpenAI(GPT-3)",
+      "confidence": 80,
+      "color": "rgb(183, 50, 230)"
+    },
+    {
       "name": "Laravel.js",
       "confidence": 90,
       "color": "rgb(255 76 96)"
     },
     {
+      "name": "OpenAI(GPT-3)",
+      "confidence": 85,
+      "color": "rgb(183, 50, 230)"
+    },
+    {
       "name": "Three.js",
       "confidence": 80,
       "color": "rgb(51, 105, 30)"
-    },
-    {
-      "name": "TypeScript",
-      "confidence": 90,
-      "color": "rgb(244 227 26)"
-    },
-    {
-      "name": "OpenAI(GPT-3)",
-      "confidence": 80,
-      "color": "rgb(183, 50, 230)"
     }
   ],
   "statistics": [

@@ -33,10 +33,10 @@ export class About extends React.Component {
               <Row>
                 <Col md={8}>
                   <div dangerouslySetInnerHTML={ { __html: about.objective } } />
-                  <div className="mt-3 mb-3">
+                  {/* <div className="mt-3 mb-3"> */}
                     {/* <Button variant="kd">Download CV</Button> */}
-                    <a href="https://github.com/kien-dang/react-resume-template" className="btn btn-kd" target="_blank" rel="noopener noreferrer">View on Github</a>
-                  </div>
+                    {/* <a href="https://github.com/Rozay1993/react-resume-template" className="btn btn-kd" target="_blank" rel="noopener noreferrer">View on Github</a>
+                  </div> */}
                 </Col>
                 <Col md={4}>
                   {about.skills.map(skill => (

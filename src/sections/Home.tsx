@@ -1,11 +1,11 @@
 import React from 'react'
 import { Container } from 'react-bootstrap'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { ParticlesContainer } from '../components/ParticlesContainer'
 import TextLoop from 'react-text-loop'
 import styled from 'styled-components'
 import { Scroller } from '../components'
-import { fab } from '@fortawesome/free-brands-svg-icons'
+// import { fab } from '@fortawesome/free-brands-svg-icons'
 import details from '../data/details.json'
 
 const Dot = styled.div({
@@ -37,7 +37,7 @@ export class Home extends React.Component {
               </TextLoop>
             </span>
 
-            <ul className="social-icons light list-inline mb-0 mt-4">
+            {/* <ul className="social-icons light list-inline mb-0 mt-4">
               {details.socialNetworks.map(network => (
                 <li className="list-inline-item" key={network.iconName}>
                   <a href={network.link} target="_blank" rel="noopener noreferrer">
@@ -45,7 +45,7 @@ export class Home extends React.Component {
                   </a>
                 </li>
               ))}
-            </ul>
+            </ul> */}
 
             <div className="mt-4">
               <Scroller href="#contact" className="btn btn-kd">Contact me</Scroller>

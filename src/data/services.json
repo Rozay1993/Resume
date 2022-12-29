@@ -9,17 +9,17 @@
             "delay": 0
         },
         {
-            "title": "Back-End && Restfull API",
-            "photo": "\/images\/service-1.svg",
+            "title": "AI Tool && Bot",
+            "photo": "\/images\/service-1.png",
             "backgroundColor": "rgb(249, 215, 76)",
-            "content": "Database Management, ",
+            "content": "OpenAI, GPT-3, chatGPT, MLS, NLP, IVR<br/>Chatbot, website bot, Trading Bot",
             "delay": 1000
         },
         {
-            "title": "AI Tool && Game",
+            "title": "3D animation && Web game",
             "photo": "\/images\/service-3.svg",
             "backgroundColor": "rgb(249, 123, 139)",
-            "content": "Artifical Intellegence using OpenAI and Web 3D, 2D games.",
+            "content": "3D animation in website landing page<br/>Web 3D, 2D games with Three.js, CreateJs, GameMarker",
             "delay": 2000
         }
     ]

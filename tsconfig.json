@@ -19,6 +19,6 @@
   },
   "include": [
     "src",
-    "typings/custom.d.ts"
+    "typings/custom.d.ts",
   ]
 }
